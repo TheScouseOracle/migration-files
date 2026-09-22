@@ -1,0 +1,347 @@
+{
+  "reviewed_at": "2026-09-17",
+  "coverage": "Curated initial register; not a national census. No live occupancy. Linton-on-Ouse has separate proposal episodes.",
+  "sources": {
+    "w": {
+      "title": "Wethersfield factsheet",
+      "publisher": "Home Office",
+      "date": "2026-09-09",
+      "url": "https://www.gov.uk/government/publications/asylum-accommodation-at-military-sites-factsheets/wethersfield-essex-factsheet"
+    },
+    "c": {
+      "title": "Crowborough factsheet",
+      "publisher": "Home Office",
+      "date": "2026-09-09",
+      "url": "https://www.gov.uk/government/publications/asylum-accommodation-at-military-sites-factsheets/crowborough-training-camp-east-sussex-factsheet"
+    },
+    "b": {
+      "title": "Barnham factsheet",
+      "publisher": "Home Office",
+      "date": "2026-09-09",
+      "url": "https://www.gov.uk/government/publications/asylum-accommodation-at-military-sites-factsheets/mod-barnham-suffolk-factsheet"
+    },
+    "bi": {
+      "title": "Bicester factsheet",
+      "publisher": "Home Office",
+      "date": "2026-09-09",
+      "url": "https://www.gov.uk/government/publications/asylum-accommodation-at-military-sites-factsheets/mod-bicester-site-a-oxfordshire-factsheet"
+    },
+    "l": {
+      "title": "Linton-on-Ouse factsheet",
+      "publisher": "Home Office",
+      "date": "2026-09-09",
+      "url": "https://www.gov.uk/government/publications/asylum-accommodation-at-military-sites-factsheets/mod-linton-on-ouse-north-yorkshire-factsheet"
+    },
+    "s": {
+      "title": "Scampton decision and costs",
+      "publisher": "Home Office",
+      "date": "2024-09-10",
+      "url": "https://www.gov.uk/government/publications/asylum-accommodation-scampton/scampton-factsheet"
+    },
+    "sp": {
+      "title": "Scampton historical capacity plan (May 2024)",
+      "publisher": "Home Office",
+      "date": "2024-09-10",
+      "url": "https://www.gov.uk/government/publications/asylum-accommodation-scampton/scampton-information-leaflet-accessible"
+    },
+    "ca": {
+      "title": "Cameron Barracks project status",
+      "publisher": "Highland Council",
+      "date": null,
+      "url": "https://www.highland.gov.uk/housing/asylum/4"
+    },
+    "nao": {
+      "title": "Investigation into asylum accommodation",
+      "publisher": "National Audit Office",
+      "date": "2024-03-20",
+      "url": "https://www.nao.org.uk/press-releases/alternative-asylum-accommodation-will-cost-more-than-hotels/"
+    },
+    "naol": {
+      "title": "Asylum accommodation investigation — summary",
+      "publisher": "National Audit Office",
+      "date": "2024-03-20",
+      "url": "https://www.nao.org.uk/wp-content/uploads/2024/03/investigation-into-asylum-accommodation-summary.pdf"
+    },
+    "support": {
+      "title": "Asylum support and published site occupancy, June 2026",
+      "publisher": "Home Office",
+      "date": "2026-08-27",
+      "url": "https://www.gov.uk/government/statistics/immigration-system-statistics-year-ending-june-2026/how-many-people-are-in-the-uk-asylum-system"
+    }
+  },
+  "records": [
+    {
+      "id": "wethersfield",
+      "name": "Wethersfield",
+      "phase": "Operational",
+      "episode": "2023 onwards",
+      "planned": null,
+      "capacity": 1245,
+      "capacityLabel": "Published bedspaces · June 2026 factsheet",
+      "occupancy": 744,
+      "occupancyPeriod": "30 June 2026 · published snapshot, not live",
+      "expected": 1445,
+      "opened": "July 2023",
+      "supplier": "Clearsprings Ready Homes",
+      "spend": 49000000,
+      "spendLabel": "Setup cost estimate · March 2024",
+      "moneyKind": "Estimate",
+      "notes": "The June 2026 factsheet states an intention to use all bedspaces throughout the year. Available places and resident numbers are different measures. Extension is subject to planning permission.",
+      "events": [
+        [
+          "July 2023",
+          "Opened"
+        ],
+        [
+          "January 2024",
+          "576 residents reported against 1,445 expected"
+        ],
+        [
+          "June 2026",
+          "1,245 bedspaces reported"
+        ],
+        [
+          "30 June 2026",
+          "744 people reported in Home Office asylum support statistics"
+        ]
+      ],
+      "refs": [
+        "w",
+        "nao",
+        "support"
+      ],
+      "historicalOccupancy": {
+        "value": 576,
+        "expected": 1445,
+        "period": "End of January 2024"
+      },
+      "occupancyReviewedAt": "2026-09-22"
+    },
+    {
+      "id": "crowborough",
+      "name": "Crowborough",
+      "phase": "Operational",
+      "episode": "2026 onwards",
+      "planned": 540,
+      "capacity": null,
+      "capacityLabel": "540 is the full-capacity target; delivered capacity not separately established here",
+      "occupancy": 418,
+      "occupancyPeriod": "30 June 2026 · published snapshot, not live",
+      "opened": "22 January 2026",
+      "supplier": "Clearsprings Ready Homes",
+      "spend": null,
+      "spendLabel": "Not established in reviewed sources",
+      "moneyKind": null,
+      "notes": "Phased introduction towards 540 places. Proposed use until January 2030 remains subject to planning permission.",
+      "events": [
+        [
+          "22 January 2026",
+          "Opened"
+        ],
+        [
+          "September 2026",
+          "Extension planning application described; outcome not predetermined"
+        ],
+        [
+          "30 June 2026",
+          "418 people reported in Home Office asylum support statistics"
+        ]
+      ],
+      "refs": [
+        "c",
+        "support"
+      ],
+      "occupancyReviewedAt": "2026-09-22"
+    },
+    {
+      "id": "barnham",
+      "name": "Barnham",
+      "phase": "Proposed",
+      "episode": "2026 proposal",
+      "planned": null,
+      "capacity": null,
+      "capacityLabel": "Not yet established",
+      "occupancy": null,
+      "occupancyPeriod": "No operational occupancy established",
+      "opened": null,
+      "supplier": "Not appointed in reviewed factsheet",
+      "spend": null,
+      "spendLabel": "Not established in reviewed sources",
+      "moneyKind": null,
+      "notes": "Feasibility work and necessary planning permissions and approvals remain prerequisites. A planning application does not establish delivery.",
+      "events": [
+        [
+          "June 2026",
+          "Proposal recorded in Home Office collection"
+        ],
+        [
+          "September 2026 review",
+          "Still described as a proposal in the reviewed factsheet"
+        ]
+      ],
+      "refs": [
+        "b"
+      ]
+    },
+    {
+      "id": "bicester",
+      "name": "Bicester",
+      "phase": "Proposed",
+      "episode": "2026 proposal",
+      "planned": null,
+      "capacity": null,
+      "capacityLabel": "Not yet established",
+      "occupancy": null,
+      "occupancyPeriod": "No operational occupancy established",
+      "opened": null,
+      "supplier": "Not appointed in reviewed factsheet",
+      "spend": null,
+      "spendLabel": "Not established in reviewed sources",
+      "moneyKind": null,
+      "notes": "Feasibility work and necessary planning permissions and approvals remain prerequisites. A planning application does not establish delivery.",
+      "events": [
+        [
+          "June 2026",
+          "Proposal recorded in Home Office collection"
+        ],
+        [
+          "September 2026 review",
+          "Still described as a proposal in the reviewed factsheet"
+        ]
+      ],
+      "refs": [
+        "bi"
+      ]
+    },
+    {
+      "id": "linton-2026",
+      "name": "Linton-on-Ouse",
+      "phase": "Proposed",
+      "episode": "2026 proposal",
+      "planned": null,
+      "capacity": null,
+      "capacityLabel": "Not yet established",
+      "occupancy": null,
+      "occupancyPeriod": "No operational occupancy established",
+      "opened": null,
+      "supplier": "Not appointed in reviewed factsheet",
+      "spend": null,
+      "spendLabel": "Not established in reviewed sources",
+      "moneyKind": null,
+      "notes": "Feasibility work and necessary planning permissions and approvals remain prerequisites. A planning application does not establish delivery.",
+      "events": [
+        [
+          "June 2026",
+          "Proposal recorded in Home Office collection"
+        ],
+        [
+          "September 2026 review",
+          "Still described as a proposal in the reviewed factsheet"
+        ]
+      ],
+      "refs": [
+        "l"
+      ]
+    },
+    {
+      "id": "scampton",
+      "name": "Scampton",
+      "phase": "Abandoned",
+      "episode": "2023–2024 proposal",
+      "planned": 2000,
+      "capacity": 0,
+      "capacityLabel": "No asylum accommodation opened",
+      "occupancy": 0,
+      "occupancyPeriod": "Cancelled before opening · September 2024",
+      "opened": null,
+      "supplier": "Not established in reviewed sources",
+      "spend": 60000000,
+      "spendLabel": "Costs incurred and commitments · September 2024",
+      "moneyKind": "Incurred and committed",
+      "notes": "Initial 2,000-place plan was reduced to 800 regular places in the May 2024 leaflet. The September decision ended the proposal. The £60m description includes work and commitments; it is not a supplier profit figure.",
+      "events": [
+        [
+          "Initial plan",
+          "2,000 places"
+        ],
+        [
+          "May 2024",
+          "Regular planned occupancy reduced to 800"
+        ],
+        [
+          "5 September 2024",
+          "Proposal cancelled before opening"
+        ]
+      ],
+      "refs": [
+        "s",
+        "sp"
+      ]
+    },
+    {
+      "id": "cameron",
+      "name": "Cameron Barracks",
+      "phase": "Abandoned",
+      "episode": "2025–2026 proposal",
+      "planned": 300,
+      "capacity": null,
+      "capacityLabel": "No delivered capacity established",
+      "occupancy": null,
+      "occupancyPeriod": "No occupancy figure established",
+      "opened": null,
+      "supplier": "Not established in reviewed sources",
+      "spend": null,
+      "spendLabel": "Not established in reviewed sources",
+      "moneyKind": null,
+      "notes": "Highland Council records written Home Office confirmation on 9 July 2026 that the project would not proceed.",
+      "events": [
+        [
+          "27 October 2025",
+          "Council notified of proposal for up to 300 men"
+        ],
+        [
+          "9 July 2026",
+          "Written confirmation project would not proceed"
+        ]
+      ],
+      "refs": [
+        "ca"
+      ]
+    },
+    {
+      "id": "linton-2022",
+      "name": "Linton-on-Ouse",
+      "phase": "Abandoned",
+      "episode": "2022 proposal · historical",
+      "planned": null,
+      "capacity": 0,
+      "capacityLabel": "Cancelled proposal",
+      "occupancy": null,
+      "occupancyPeriod": "No occupancy figure imported",
+      "opened": null,
+      "supplier": "Not established in reviewed sources",
+      "spend": 2900000,
+      "spendLabel": "Preparatory spending · financial year 2022–23",
+      "moneyKind": "Expenditure",
+      "notes": "The NAO records £2.9m spent preparing the abandoned 2022 proposal. This is a separate episode from the 2026 proposal, preserving history without counting it as another physical site.",
+      "events": [
+        [
+          "2022–23",
+          "Preparatory spending recorded"
+        ],
+        [
+          "March 2024 NAO report",
+          "Cancellation documented"
+        ],
+        [
+          "June 2026",
+          "A new proposal is tracked separately"
+        ]
+      ],
+      "refs": [
+        "naol"
+      ]
+    }
+  ],
+  "occupancy_reviewed_at": "2026-09-22"
+}

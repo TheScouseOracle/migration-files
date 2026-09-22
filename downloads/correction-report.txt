@@ -1,0 +1,11 @@
+Migration Files correction report
+
+Section or page link:
+Figure or wording (include its period):
+What appears wrong:
+Suggested correction:
+Supporting publication and table/page:
+
+Submit at https://github.com/TheScouseOracle/migration-files/issues/new?template=correction.md
+A GitHub account is required. Reports are public. Do not include personal case details.
+Downloading this template does not send anything.
